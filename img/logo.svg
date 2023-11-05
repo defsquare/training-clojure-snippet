@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="229px" height="49px" viewBox="0 0 229 49" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Defsquare-logo-long-dark-blue-text-red-brackets</title>
+    <g id="Defsquare" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Defsquare-logo-long-dark-blue-text-red-brackets">
+            <text id="defsquare" font-family="Helvetica-Bold, Helvetica" font-size="40" font-weight="bold" fill="#1A2A36">
+                <tspan x="19.9140625" y="39">defsquare</tspan>
+            </text>
+            <g id="right-bracket" transform="translate(214.000000, 0.000000)" fill="#F65E5E">
+                <path d="M15,0 L15,7 L15,48 L14.999,48 L15,49 L-1.77635684e-15,49 L-1.77635684e-15,42 L8,42 L7.999,7 L-1.77635684e-15,7 L-1.77635684e-15,0 L15,0 Z" id="Combined-Shape"></path>
+            </g>
+            <g id="left-bracket" fill="#F65E5E">
+                <path d="M-8.8817842e-16,0 L15,8.8817842e-16 L15,7 L6.999,6.999 L7,42 L15,42 L15,49 L0,49 L-8.8817842e-16,0 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
