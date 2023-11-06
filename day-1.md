@@ -35,7 +35,7 @@ Via tools.deps
 ```shell
 brew install clojure
 clojure -Ttools install com.github.seancorfield/clj-new '{:git/tag "v1.2.404"}' :as clj-new
-clojure Tclj-new app :name defsquare/training-day-1
+clojure -Tclj-new app :name defsquare/training-day-1
 ```
 
 Via Leiningen
@@ -149,7 +149,7 @@ lein new defsquare-training-day-1
 ;=> ("1" "2")
 (filter odd? [1 2]) ;Removes elements that which does not respect the predicate
 ;=> (1)
-(reduce (fn [acc itm] (conj acc (str "the-" x))) #{} [1 2]) ;Iterates over elements and return another data structure
+(reduce (fn [acc itm] (conj acc (str "the-" itm))) #{} [1 2]) ;Iterates over elements and return another data structure
 ;=> #{"the-1" "the-2"}
 
 (take 2 [:a :b :c]) ;Returns the first N elements in seq
